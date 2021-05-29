@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "69MIlyRu1L+OD4V6TGXJRvdJIdI8qE63q233gNEVXSC+vj2eb0HHwKGVK9NRUTJfRuMnWB4q9Qi78SI6wv6Avw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Denis\\Desktop\\WPF HomeWork\\Base64Coder\\Base64Coder\\Base64Coder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
